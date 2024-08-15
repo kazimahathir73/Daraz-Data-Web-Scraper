@@ -32,7 +32,7 @@ Chrome Driver is provided in the repository. Version- 127.0.6533.119
    - The resulting CSV file will be saved in the same directory where the script is executed.
 
 ## Example Output
-After running the bot with the search keyword `smart tv`, you might get an output CSV file named `smart_tv_product_details.csv`. The CSV will include columns like:
+After running the bot with the search keyword `smart tv`, you might get an output CSV file named `smart_tv_pages_1_daraz_data.csv`. The CSV will include columns like:
 - `Product Name`
 - `Brand Name`
 - `Price`
